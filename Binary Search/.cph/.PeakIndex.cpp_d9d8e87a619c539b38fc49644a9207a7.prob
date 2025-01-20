@@ -1,0 +1,1 @@
+{"name":"Local: PeakIndex","url":"f:\\C++\\Binary Search\\PeakIndex.cpp","tests":[{"id":1737265612186,"input":"5 \n3 5 8 9 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\Binary Search\\PeakIndex.cpp","group":"local","local":true}

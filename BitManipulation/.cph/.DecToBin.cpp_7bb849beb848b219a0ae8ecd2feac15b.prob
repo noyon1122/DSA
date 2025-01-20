@@ -1,0 +1,1 @@
+{"name":"Local: DecToBin","url":"e:\\C++\\BitManipulation\\DecToBin.cpp","tests":[{"id":1720329024476,"input":"8","output":"111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\BitManipulation\\DecToBin.cpp","group":"local","local":true}
