@@ -1,0 +1,1 @@
+{"name":"Local: DivideArrayIntoTwoSubarray","url":"h:\\DSA\\Prefix & Suffix\\DivideArrayIntoTwoSubarray.cpp","tests":[{"id":1737426277613,"input":"8\n3 4 -2 5 8 20 -10 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\DSA\\Prefix & Suffix\\DivideArrayIntoTwoSubarray.cpp","group":"local","local":true}

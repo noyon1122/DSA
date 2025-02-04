@@ -1,0 +1,1 @@
+{"name":"Local: Kadane'sAlgo","url":"h:\\DSA\\Prefix & Suffix\\Kadane'sAlgo.cpp","tests":[{"id":1737430482161,"input":"9\n-2 1 -3 4 -1 2 1 -5 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\DSA\\Prefix & Suffix\\Kadane'sAlgo.cpp","group":"local","local":true}
